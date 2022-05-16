@@ -1,4 +1,4 @@
-H/*   STEP 1   */
+/*   STEP 1   */
 export const leagueID = "796833662086778880"; // your league ID
 export const leagueName = "New York Footballers"; // your league name
 export const dues = 150; // (optional) used in template constitution page
@@ -134,7 +134,7 @@ export const managers = [
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Gary Troy",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Brooklyn", // (optional)
+       "location": "Ronkonkoma, NY", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
@@ -222,7 +222,7 @@ export const managers = [
        "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Michael Ocasio",
        "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-       "location": "Brooklyn", // (optional)
+       "location": "Port Jeff, NY", // (optional)
        "bio": "Lorem ipsum...",
        "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
